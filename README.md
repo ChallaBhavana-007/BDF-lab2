@@ -7,10 +7,10 @@
 - **Section:** S-15
 - **Course:** Backend Development Fundamentals
 - **Year & Term:** Year II, Term II
-- **Faculty:** Shiva Sai Teja
+- **Faculty:** Mr. Shiva Sai Teja
 
 ## Live Link
-Not deployed yet. The project is running locally using Express.js on port 3000.
+https://bdf-lab2.onrender.com
 
 ## Project Description
 This project connects an Express.js server with an SQLite database. It performs CRUD operations (Create, Read, Update and Delete) using HTTP methods.
@@ -28,7 +28,6 @@ The database contains book details such as ID, title, author, price and pages.
 
 ## Project Structure
 
-```text
 BDF-Lab-2/
 │
 ├── app.js
@@ -47,7 +46,7 @@ BDF-Lab-2/
     ├── 5-post.png
     ├── 6-put.png
     └── 7-delete.png
-```
+
 
 ## How to Install and Run
 
@@ -78,6 +77,8 @@ npm run dev
 The server runs at:
 
 http://localhost:3000/
+
+**GIT HUB CLONE**: https://github.com/ChallaBhavana-007/BDF-lab2.git
 
 ## API Endpoints
 
