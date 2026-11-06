@@ -69,7 +69,7 @@ BDF-Lab-2/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_LINK
+git clone https://github.com/ChallaBhavana-007/BDF-lab2/tree/main/LAB-3
 ```
 
 ### Step 2: Open the Project Folder
@@ -214,7 +214,7 @@ GET http://localhost:3000/books?min_price=200&max_price=400
 
 Add your deployed Render URL here:
 
-`________________________________________`
+`https://bdf-lab3-qcqq.onrender.com`
 
 ## GitHub Repository
 
@@ -222,7 +222,7 @@ Add your deployed Render URL here:
 
 Add your GitHub repository URL here:
 
-`________________________________________`
+`https://github.com/ChallaBhavana-007/BDF-lab2/tree/main/LAB-3`
 
 ## Learning Outcomes
 
